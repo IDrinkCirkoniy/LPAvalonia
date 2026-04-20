@@ -1,0 +1,52 @@
+﻿<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:vm="using:HelloApp.ViewModels"
+             x:DataType="vm:RegistrationViewModel"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="HelloApp.Views.RegistrationView">
+    <StackPanel>
+        <StackPanel HorizontalAlignment="Center">
+            <Label Content="Логин" VerticalAlignment="Center"/>
+		    <TextBox Watermark="Введите логин" Height="20" Width="300"/>
+        </StackPanel>
+
+        <StackPanel HorizontalAlignment="Center">
+            <Label Content="Пароль" VerticalAlignment="Center"/>
+		    <TextBox Watermark="Введите пароль" PasswordChar="*" Height="20" Width="300"/>
+        </StackPanel>
+
+        <StackPanel HorizontalAlignment="Center">
+            <Label Content="Почта" VerticalAlignment="Center"/>
+		    <TextBox Watermark="Введите почту" TextInputOptions.ContentType="Email" Height="20" Width="300"/>	
+        </StackPanel>
+
+        <StackPanel HorizontalAlignment="Center">
+            <Label Content="Код" VerticalAlignment="Center"/>
+		    <TextBox Watermark="Введите код из почты" TextInputOptions.ContentType="Number" Height="20" Width="300"/>	
+        </StackPanel>
+
+        <StackPanel HorizontalAlignment="Center">
+			<CheckBox Content="Meow?"/>
+        </StackPanel>
+
+        <StackPanel HorizontalAlignment="Center">
+			<RadioButton Content="Несовершеннолетний" GroupName="Age"/>
+			<RadioButton Content="Совершеннолетний" GroupName="Age"/>
+			<RadioButton Content="Мужчина" GroupName="Sex"/>
+			<RadioButton Content="Женщина" GroupName="Sex"/>
+        </StackPanel>
+        
+        <StackPanel HorizontalAlignment="Center">
+            <Label Content="{Binding Age}" HorizontalAlignment="Center"/>
+            <CalendarDatePicker SelectedDate="{Binding SelectedDate}"/>
+        </StackPanel>
+
+        <StackPanel>
+            <ComboBox>
+				
+            </ComboBox>
+        </StackPanel>
+    </StackPanel>
+</UserControl>

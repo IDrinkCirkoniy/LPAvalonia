@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\221\\students\\ISPP31\\course3\\LPAvalonia\\labworks\\lab1-3\\HelloApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{994A86A5-B972-40CB-A688-3C7033C4ABBC}|HelloApp\\HelloApp.csproj|c:\\users\\221\\students\\ispp31\\course3\\lpavalonia\\labworks\\lab1-3\\helloapp\\helloapp\\viewmodels\\registrationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994A86A5-B972-40CB-A688-3C7033C4ABBC}|HelloApp\\HelloApp.csproj|solutionrelative:helloapp\\viewmodels\\registrationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994A86A5-B972-40CB-A688-3C7033C4ABBC}|HelloApp\\HelloApp.csproj|c:\\users\\221\\students\\ispp31\\course3\\lpavalonia\\labworks\\lab1-3\\helloapp\\helloapp\\views\\registrationview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{994A86A5-B972-40CB-A688-3C7033C4ABBC}|HelloApp\\HelloApp.csproj|solutionrelative:helloapp\\views\\registrationview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994A86A5-B972-40CB-A688-3C7033C4ABBC}|HelloApp\\HelloApp.csproj|c:\\users\\221\\students\\ispp31\\course3\\lpavalonia\\labworks\\lab1-3\\helloapp\\helloapp\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994A86A5-B972-40CB-A688-3C7033C4ABBC}|HelloApp\\HelloApp.csproj|solutionrelative:helloapp\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994A86A5-B972-40CB-A688-3C7033C4ABBC}|HelloApp\\HelloApp.csproj|c:\\users\\221\\students\\ispp31\\course3\\lpavalonia\\labworks\\lab1-3\\helloapp\\helloapp\\views\\controlsview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{994A86A5-B972-40CB-A688-3C7033C4ABBC}|HelloApp\\HelloApp.csproj|solutionrelative:helloapp\\views\\controlsview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994A86A5-B972-40CB-A688-3C7033C4ABBC}|HelloApp\\HelloApp.csproj|c:\\users\\221\\students\\ispp31\\course3\\lpavalonia\\labworks\\lab1-3\\helloapp\\helloapp\\views\\registrationview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994A86A5-B972-40CB-A688-3C7033C4ABBC}|HelloApp\\HelloApp.csproj|solutionrelative:helloapp\\views\\registrationview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994A86A5-B972-40CB-A688-3C7033C4ABBC}|HelloApp\\HelloApp.csproj|c:\\users\\221\\students\\ispp31\\course3\\lpavalonia\\labworks\\lab1-3\\helloapp\\helloapp\\views\\homeview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994A86A5-B972-40CB-A688-3C7033C4ABBC}|HelloApp\\HelloApp.csproj|solutionrelative:helloapp\\views\\homeview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994A86A5-B972-40CB-A688-3C7033C4ABBC}|HelloApp\\HelloApp.csproj|c:\\users\\221\\students\\ispp31\\course3\\lpavalonia\\labworks\\lab1-3\\helloapp\\helloapp\\views\\homeview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{994A86A5-B972-40CB-A688-3C7033C4ABBC}|HelloApp\\HelloApp.csproj|solutionrelative:helloapp\\views\\homeview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994A86A5-B972-40CB-A688-3C7033C4ABBC}|HelloApp\\HelloApp.csproj|c:\\users\\221\\students\\ispp31\\course3\\lpavalonia\\labworks\\lab1-3\\helloapp\\helloapp\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{994A86A5-B972-40CB-A688-3C7033C4ABBC}|HelloApp\\HelloApp.csproj|solutionrelative:helloapp\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 230,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeView.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\221\\students\\ISPP31\\course3\\LPAvalonia\\labworks\\lab1-3\\HelloApp\\HelloApp\\Views\\HomeView.axaml.cs",
+              "RelativeDocumentMoniker": "HelloApp\\Views\\HomeView.axaml.cs",
+              "ToolTip": "C:\\Users\\221\\students\\ISPP31\\course3\\LPAvalonia\\labworks\\lab1-3\\HelloApp\\HelloApp\\Views\\HomeView.axaml.cs",
+              "RelativeToolTip": "HelloApp\\Views\\HomeView.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T09:50:56.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeView.axaml",
+              "DocumentMoniker": "C:\\Users\\221\\students\\ISPP31\\course3\\LPAvalonia\\labworks\\lab1-3\\HelloApp\\HelloApp\\Views\\HomeView.axaml",
+              "RelativeDocumentMoniker": "HelloApp\\Views\\HomeView.axaml",
+              "ToolTip": "C:\\Users\\221\\students\\ISPP31\\course3\\LPAvalonia\\labworks\\lab1-3\\HelloApp\\HelloApp\\Views\\HomeView.axaml",
+              "RelativeToolTip": "HelloApp\\Views\\HomeView.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-20T09:50:54.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistrationView.axaml",
+              "DocumentMoniker": "C:\\Users\\221\\students\\ISPP31\\course3\\LPAvalonia\\labworks\\lab1-3\\HelloApp\\HelloApp\\Views\\RegistrationView.axaml",
+              "RelativeDocumentMoniker": "HelloApp\\Views\\RegistrationView.axaml",
+              "ToolTip": "C:\\Users\\221\\students\\ISPP31\\course3\\LPAvalonia\\labworks\\lab1-3\\HelloApp\\HelloApp\\Views\\RegistrationView.axaml",
+              "RelativeToolTip": "HelloApp\\Views\\RegistrationView.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-20T09:50:51.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistrationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\221\\students\\ISPP31\\course3\\LPAvalonia\\labworks\\lab1-3\\HelloApp\\HelloApp\\ViewModels\\RegistrationViewModel.cs",
+              "RelativeDocumentMoniker": "HelloApp\\ViewModels\\RegistrationViewModel.cs",
+              "ToolTip": "C:\\Users\\221\\students\\ISPP31\\course3\\LPAvalonia\\labworks\\lab1-3\\HelloApp\\HelloApp\\ViewModels\\RegistrationViewModel.cs",
+              "RelativeToolTip": "HelloApp\\ViewModels\\RegistrationViewModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T09:10:32.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\221\\students\\ISPP31\\course3\\LPAvalonia\\labworks\\lab1-3\\HelloApp\\HelloApp\\Views\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "HelloApp\\Views\\MainWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\221\\students\\ISPP31\\course3\\LPAvalonia\\labworks\\lab1-3\\HelloApp\\HelloApp\\Views\\MainWindow.axaml.cs",
+              "RelativeToolTip": "HelloApp\\Views\\MainWindow.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T09:47:42.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ControlsView.axaml",
+              "DocumentMoniker": "C:\\Users\\221\\students\\ISPP31\\course3\\LPAvalonia\\labworks\\lab1-3\\HelloApp\\HelloApp\\Views\\ControlsView.axaml",
+              "RelativeDocumentMoniker": "HelloApp\\Views\\ControlsView.axaml",
+              "ToolTip": "C:\\Users\\221\\students\\ISPP31\\course3\\LPAvalonia\\labworks\\lab1-3\\HelloApp\\HelloApp\\Views\\ControlsView.axaml",
+              "RelativeToolTip": "HelloApp\\Views\\ControlsView.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-20T09:43:45.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistrationView.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\221\\students\\ISPP31\\course3\\LPAvalonia\\labworks\\lab1-3\\HelloApp\\HelloApp\\Views\\RegistrationView.axaml.cs",
+              "RelativeDocumentMoniker": "HelloApp\\Views\\RegistrationView.axaml.cs",
+              "ToolTip": "C:\\Users\\221\\students\\ISPP31\\course3\\LPAvalonia\\labworks\\lab1-3\\HelloApp\\HelloApp\\Views\\RegistrationView.axaml.cs",
+              "RelativeToolTip": "HelloApp\\Views\\RegistrationView.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T09:09:33.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\221\\students\\ISPP31\\course3\\LPAvalonia\\labworks\\lab1-3\\HelloApp\\HelloApp\\Views\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "HelloApp\\Views\\MainWindow.axaml",
+              "ToolTip": "C:\\Users\\221\\students\\ISPP31\\course3\\LPAvalonia\\labworks\\lab1-3\\HelloApp\\HelloApp\\Views\\MainWindow.axaml",
+              "RelativeToolTip": "HelloApp\\Views\\MainWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-20T08:27:54.921Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
