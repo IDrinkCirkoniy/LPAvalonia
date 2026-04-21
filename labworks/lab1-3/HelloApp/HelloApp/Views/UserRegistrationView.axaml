@@ -1,0 +1,16 @@
+﻿<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:helloapp="using:HelloApp"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:vm="using:HelloApp.ViewModels"
+             x:DataType="vm:UserRegistrationViewModel"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="HelloApp.Views.UserRegistrationView">
+    <StackPanel>
+		<TextBox Watermark="Введите логин" Width="300" Margin="10, 10, 10, 10" Text="{Binding Credential.Login}"/>
+		<TextBox Watermark="Введите пароль" PasswordChar="*" Width="300" Margin="10, 10, 10, 10" Text="{Binding Credential.Password}"/>
+		<TextBox Watermark="Повторите пароль" PasswordChar="*" Width="300" Margin="10, 10, 10, 10" Text="{Binding Credential.RepeatedPassword}"/>
+		<TextBox Watermark="Введите номер телефона" TextInputOptions.ContentType="Number" Width="300" Margin="10, 10, 10, 10" Text="{Binding Credential.Number}"/>
+    </StackPanel>
+</UserControl>

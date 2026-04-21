@@ -43,10 +43,22 @@
             <CalendarDatePicker SelectedDate="{Binding SelectedDate}"/>
         </StackPanel>
 
-        <StackPanel>
-            <ComboBox>
-				
-            </ComboBox>
+        <StackPanel HorizontalAlignment="Center">
+            <ComboBox ItemsSource="{Binding Language}" Margin="10,10,10,10" Width="150" SelectedItem="{Binding SelectedLanguage}"/>
+            <TextBlock Text="{Binding SelectedLanguage}" HorizontalAlignment="Center"/>
+        </StackPanel>
+
+        <StackPanel HorizontalAlignment="Center">
+			<Slider Value="{Binding OpacityValue}" Minimum="0" Maximum="1" HorizontalAlignment="Center" Width="300"/>
+            <Rectangle Fill="LightCoral" Opacity="{Binding OpacityValue}" Height="50" Width="300"/>
+        </StackPanel>
+
+        <StackPanel HorizontalAlignment="Center">
+			<ToggleSwitch OnContent="Включено" OffContent="Выключено"/>
+        </StackPanel>
+
+        <StackPanel HorizontalAlignment="Center">
+			<Button Content="Войти" Command="{Binding EnterLogin}"/>
         </StackPanel>
     </StackPanel>
 </UserControl>

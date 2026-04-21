@@ -9,6 +9,10 @@
         x:DataType="vm:MainWindowViewModel"
         Icon="/Assets/avalonia-logo.ico"
         Title="HelloApp">
-        <local:RegistrationView/>
-
+    
+    <StackPanel HorizontalAlignment="Center">
+		<ContentControl Content="{Binding CurrentPage}"/>
+        <Button Content="Войти" Command="{Binding enterLoginCommand}"/>
+        <Button Content="Зарегистрироваться" Command="{Binding enterAuthorizationCommand}"/>
+    </StackPanel>
 </Window>
